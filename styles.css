@@ -69,7 +69,7 @@ body {
         font-size: 1.6rem;
     }
     .container {
-        margin: 0px auto;
+        margin: 0px 20px;
         flex-direction: column;
         width: 100vw;
         align-items: center;
@@ -86,3 +86,4 @@ body {
     }
 
 }
+
